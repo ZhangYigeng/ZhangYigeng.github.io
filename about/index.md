@@ -7,7 +7,7 @@ This is Yigeng Zhang. I am a 2nd-year Ph.D. student at [RiTUAL Lab], Department 
 My research interests lie within natural language processing using machine learning methods. I am also broadly interested in recommendation systems, human-centered computing, and computational social science.
 
 <!-- #### News -->
-<h4 style= "background:	#ADD8E6" >News<h4>
+<h4 style= "background:	#ADD8E6" >News</h4>
 ###
 - <span style="color:red">Happy Chinese New Year! *新春快乐！*</span>
 <hr>  
