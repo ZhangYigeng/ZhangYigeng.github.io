@@ -10,7 +10,8 @@ My research interests lie within natural language processing using machine learn
 <h4 style= "background:	#ADD8E6" >News<h4>
 ###
 - <span style="color:red">Happy Chinese New Year! *新春快乐！*</span>
-------
+<hr>  
+
 #### Education
 - 2018- : Ph.D. student at the University of Houston
 - 2015-2018: MSc in Computer Science and Engineering from [Chalmers University of Technology], [Gothenburg], Sweden  
