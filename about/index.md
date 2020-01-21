@@ -8,8 +8,7 @@ My research interests lie within natural language processing using machine learn
 
 <!-- #### News -->
 <h4 style= "background:	#ADD8E6" >News</h4>
-###
-- <span style="color:red">Happy Chinese New Year! *新春快乐！*</span>
+- <span style="color:red">Happy Chinese New Year! 新春快乐！</span>
 <hr>  
 
 #### Education
