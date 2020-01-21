@@ -21,7 +21,7 @@ My research interests lie within natural language processing using machine learn
 [Dr. Thamar Solorio]: http://solorio.uh.edu/
 [Gothenburg]:https://en.wikipedia.org/wiki/Gothenburg
 [Chalmers University of Technology]: http://www.chalmers.se/en/Pages/default.aspx
-[Chinese Semantic Role Labeling Using Recurrent Neural Networks]: https://hdl.handle.net/20.500.12380/254899
+[Chinese Semantic Role Labeling Using Recurrent Neural Networks]: https://hdl.handle.net/20.500.12380/254899?locale=en
 
 #### Experience
 - 2018.9- : Teaching/Research Assistant at the Departement of Computer Science, University of Houston
