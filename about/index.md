@@ -15,13 +15,13 @@ My research interests lie within natural language processing using machine learn
 [RiTUAL Lab]:  http://ritual.uh.edu/
 [Dr. Thamar Solorio]: http://solorio.uh.edu/
 [Gothenburg]:https://en.wikipedia.org/wiki/Gothenburg
-[Chalmers University of Technology]: https://en.wikipedia.org/wiki/Chalmers_University_of_Technology
+[Chalmers University of Technology]: http://www.chalmers.se/en/Pages/default.aspx
 [Chinese Semantic Role Labeling Using Recurrent Neural Networks]: https://hdl.handle.net/20.500.12380/254899
 
 #### Experience
 - 2018.9- : Teaching/Research Assistant at the Departement of Computer Science, University of Houston
-- 2016.8: [IDEA League Summer School] at Delft University of Technology, Responsible Artificial Intelligence
-- 2016.6-2016.12: Intern at [China Euro Vehicle Technology AB (CEVT AB)], Gothenburg, Sweden 
+- 2016.8: [IDEA League Summer School] at the Delft University of Technology, Responsible Artificial Intelligence
+- 2016.6-2016.12: Intern at [China Euro Vehicle Technology AB (CEVT AB)], Gothenburg, Sweden  
 
 [IDEA League Summer School]: http://idealeague.org/summer-schools/
 [China Euro Vehicle Technology AB (CEVT AB)]: https://www.cevt.se/
