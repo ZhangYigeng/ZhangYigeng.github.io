@@ -3,8 +3,8 @@ layout: page
 type: about
 ---
 ### Welcome!
-This is Yigeng Zhang. I am a 2nd-year Ph.D. student at [RiTUAL Lab], Department of Computer Science, University of Houston. My advisor is [Dr. Thamar Solorio].  
-My research interests lie within natural language processing using machine learning methods. I am also broadly interested in recommendation systems, human-centered computing, and computational social science.
+This is Yigeng Zhang. I am a 5th-year Ph.D. student at [RiTUAL Lab], Department of Computer Science, University of Houston. My advisor is [Dr. Thamar Solorio].  
+My research interests lie within natural language processing using machine learning methods. I am also broadly interested in search & recommendation systems, human-centered computing, and computational social science.
 
 <!-- #### News -->
 <!-- <h4 style= "background:	#ADD8E6" ><i class="fa fa-newspaper-o"></i> News</h4>
