@@ -16,7 +16,7 @@ My research interests lie within natural language processing using machine learn
 - 2021.10 Our EMNLP Findings paper got invited to present in the [3rd NLP for ConvAI workshop]!
 - 2021.9 Our paper about [movie content assessment] got accepted at Findings of EMNLP 2021!
 - 2021.6 I returned to [Alcon Research] as a Machine Learning intern!
-- I got my paper about [satirical news detection] accepted at SBP-BRiMs 2020 and I was awarded with SBP-BRiMS 2020 scholarship!
+- 2020.10 I got my paper about [satirical news detection] accepted at SBP-BRiMs 2020 and I was awarded with SBP-BRiMS 2020 scholarship!
 - 2020.6 I started my internship at [Alcon Research] as a Machine Learning intern!
 
 [Alcon Research]: https://www.alcon.com/
