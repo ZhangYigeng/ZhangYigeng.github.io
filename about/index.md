@@ -10,7 +10,8 @@ My research interests lie within natural language processing using machine learn
 <!-- <h4 style= "background:	#ADD8E6" ><i class="fa fa-newspaper-o"></i> News</h4>
 - <span style="color:red">Happy Chinese New Year! 新春快乐！</span>
 <hr>   -->
-- 2022.8 I will work as a Teaching Assistant for COSC 6336 Natural Language Processing. Very excited to meet new friends to NLP community!
+- 2022.8 I will work as a Teaching Assistant for COSC 6336 Natural Language Processing. Very excited to welcome new friends to the NLP community!
+- 2022.7 I was awarded Natural Sciences and Mathematics Alumni Association (NSMAA) Scholarship!
 - 2022.5 I started my internship at [Salesforce] as a Machine Learning Scientist intern!
 - 2021.10 Our EMNLP Findings paper got invited to present in the [3rd NLP for ConvAI workshop]!
 - 2021.9 Our paper about [movie content assessment] got accepted at Findings of EMNLP 2021!
